@@ -2,7 +2,7 @@
 
 This repo contains mini-projects for learning pure JavaScript
 
-###List of projects:
+### List of projects:
 
 **1. Guess My Number Game**
 
