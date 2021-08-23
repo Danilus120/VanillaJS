@@ -1,6 +1,6 @@
 # Collection of tasks / applications performed in pure JS
 
-This repo contains mini-projects for learning pure JavaScript
+This repository contains mini-projects that I used to learn Vanilla JavaScript
 
 ### List of projects:
 
